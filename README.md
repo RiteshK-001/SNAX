@@ -13,3 +13,5 @@ Requires SFML libraries to be installed.
 ```bash
 g++ main.cpp -o main -lsfml-graphics -lsfml-window -lsfml-system
 ./main
+
+<img width="815" height="636" alt="image" src="https://github.com/user-attachments/assets/17850dd7-39cd-491c-a484-ed9eb0714b19" />
