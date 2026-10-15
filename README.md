@@ -16,3 +16,4 @@ g++ main.cpp -o main -lsfml-graphics -lsfml-window -lsfml-system
 ```
 
 <img width="815" height="636" alt="Screenshot 2026-10-15 144235" src="https://github.com/user-attachments/assets/54346079-64aa-45f4-8efe-25fe1a4f24a6" />
+<img width="812" height="627" alt="image" src="https://github.com/user-attachments/assets/2a5a8140-9ec1-4533-ba9f-2d7b259f70b2" />
